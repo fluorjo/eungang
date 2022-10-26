@@ -2,7 +2,6 @@
   "name": "eungang",
   "version": "1.0.0",
   "description": "eungang homepage",
-  "main": "index.js",
 
   "repository": {
     "type": "git",

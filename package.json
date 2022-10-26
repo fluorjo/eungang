@@ -1,0 +1,17 @@
+{
+  "name": "eungang",
+  "version": "1.0.0",
+  "description": "eungang homepage",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluorjo/eungang.git"
+  },
+  "author": "fluorjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluorjo/eungang/issues"
+  },
+  "homepage": "https://github.com/fluorjo/eungang#readme"
+}
